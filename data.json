@@ -1,0 +1,31 @@
+[
+  {
+    "completedAt": "2021-09-14T14:00:00+00:00",
+    "label": "Screener",
+    "questions": [
+      {"id": 1, "label": "RLS Risk"},
+      {"id": 3, "label": "Caffeine"},
+      {"id": 4, "label": "Alcohol"}
+    ],
+    "answers": [
+      {"questionId": 1, "value": "highRisk"},
+      {"questionId": 3, "value": "always"},
+      {"questionId": 4, "value": "sometimes"}
+    ]
+  },
+  {
+    "completedAt": "2021-09-30T08:00:00+00:00",
+    "label": "Therapy questionnaire",
+    "questions": [
+      {"id": 2, "label": "SWSD Risk"},
+      {"id": 3, "label": "Caffeine"},
+      {"id": 4, "label": "Alcohol"}
+    ],
+    "answers": [
+      {"questionId": 2, "value": "lowRisk"},
+      {"questionId": 3, "value": "always"},
+      {"questionId": 4, "value": "never"}
+    ]
+  }
+]
+
